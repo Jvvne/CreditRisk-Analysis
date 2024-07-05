@@ -10,3 +10,8 @@ The purpose of this analysis is to train and evaluate models with imbalanced cla
 
 - **Languages**: Python
 - **Libraries**: Pandas, imbalanced-learn, scikit-learn, Matplotlib
+
+## Instructions to Run the Project
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/credit-risk-analysis.git
